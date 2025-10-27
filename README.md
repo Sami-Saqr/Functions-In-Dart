@@ -42,3 +42,23 @@ It covers all the essential and advanced function features with clean, runnable 
 ---
 
 ## 🗂️ Folder Structure
+
+📦 dart_functions_types
+┣ 📂 lib
+┃ ┗ 📜 main.dart
+┗ 📜 README.md
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone this repository:
+```bash
+git clone https://github.com/Sami-Saqr/Functions-In-Dart.git
+
+<div align="center">
+
+Made with ❤️ using Dart
+
+</div> ```
