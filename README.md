@@ -1,6 +1,6 @@
 # Functions-In-Dart
 
-Types of functions in dart language
+Types of functions in Dart language
 
 <div align="center">
 
