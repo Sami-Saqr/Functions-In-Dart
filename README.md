@@ -60,6 +60,6 @@ git clone https://github.com/Sami-Saqr/Functions-In-Dart.git
 ```
 <div align="center">
 
-Made with ❤️ using Dart
+Made with Me (Sami Saqr)❤️ using Dart
 
 </div> ```
