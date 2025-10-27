@@ -57,6 +57,7 @@ It covers all the essential and advanced function features with clean, runnable 
 ```bash
 git clone https://github.com/Sami-Saqr/Functions-In-Dart.git
 
+```
 <div align="center">
 
 Made with ❤️ using Dart
